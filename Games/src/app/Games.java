@@ -16,6 +16,8 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
+// 11 Aufgaben
+
 public class Games {
 
     private static final Path CSV = Paths.get("Games/games.csv");
